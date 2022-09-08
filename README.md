@@ -1,5 +1,8 @@
 ## Hi there! 👋
 
+- 👨‍💻 Currently working as a Marketing Science Coordinator
+- 🎓 Studied Applied Mathematics ([UoC](http://math.uoc.gr/en/index.html)), Statistics & Machine Learning ([LiU](https://liu.se/en/education/program/f7msl))
+
 ### I speak...
 <!-- Python -->
 [<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -26,7 +29,9 @@
 <br />
 
 ### Come say hi! :point_down:
-[<img align="left" alt="Eleftheria Chatzitheodoridou | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left">
+<a href="https://www.linkedin.com/in/eleftheria-chatzitheodoridou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eleftheria-chatzitheodoridou/" height="30" width="40" /></a>
+</p>
 <br />
 <br />
 <img align="left" alt="Eleftheria94's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eleftheria94&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
@@ -41,3 +46,5 @@
 [keras]: https://keras.io/
 [scikit-learn]: https://scikit-learn.org/stable/
 [Jupyter Notebook]: https://github.com/jupyter/notebook
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eleftheria94&label=Profile%20views&color=0e75b6&style=flat" alt="Eleftheria94" /> </p>
