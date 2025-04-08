@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 👨‍💻 Currently working as a Data Scientist.
+- 👨‍💻 Currently working as a Data Engineer, specializing on Google Cloud.
 - 🎓 Studied Applied Mathematics ([UoC](http://math.uoc.gr/en/index.html)), Statistics & Machine Learning ([LiU](https://liu.se/en/education/program/f7msl))
 
 ### I speak...
